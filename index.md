@@ -32,7 +32,7 @@ title: Yoimiya
     </div>
     <div class="about-card">
       <span class="lab">// NOW</span>
-      <span class="val">西交大一，还在被高数与线代追着跑<small>surviving freshman year</small></span>
+      <span class="val">希望在线代和数分手下活下来ing</span>
     </div>
     <div class="about-card">
       <span class="lab">// OFFLINE</span>
