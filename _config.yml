@@ -1,0 +1,10 @@
+title: Yoimiya
+description: Microelectronics @ XJTU · Hardware & IC
+author: Yoimiya
+baseurl: ""
+url: ""
+timezone: Asia/Shanghai
+permalink: /posts/:year/:month/:day/:title/
+markdown: kramdown
+kramdown:
+  input: GFM

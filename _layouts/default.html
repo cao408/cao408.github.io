@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#050908">
+<title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+<meta name="description" content="{{ page.description | default: site.description }}">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/css/main.css">
+<script src="/js/main.js" defer></script>
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-inner">
+    <a class="brand" href="/"><span class="prompt">~/</span>yoimiya</a>
+    <nav>
+      <a href="/#about">about</a>
+      <a href="/posts/">posts</a>
+      <a href="/#contact">contact</a>
+    </nav>
+    <span class="status"><i class="dot"></i>online</span>
+  </div>
+</header>
+<main class="wrap">
+{{ content }}
+</main>
+<footer>
+  <div class="wrap foot-inner">
+    <span>© 2026 Yoimiya · xjtu · built by hand, no template</span>
+    <span class="eof">— end of file —</span>
+  </div>
+</footer>
+</body>
+</html>
