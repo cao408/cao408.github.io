@@ -15,9 +15,7 @@ title: Yoimiya
     </div>
   </div>
   <p class="tagline">
-    微电子在读，做硬件。<br>
-    想清楚信号从哪里来、到哪里去，再把它们搬进硅片里。
-    <span class="en">Microelectronics @ XJTU · signals, logic, silicon.</span>
+    First year of microelectronics at XJTU.
   </p>
 </div>
 
