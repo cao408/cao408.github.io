@@ -75,7 +75,7 @@ a:hover{color:var(--fg);text-decoration:underline;text-underline-offset:3px}
   box-shadow:0 0 8px var(--accent);animation:blink 1.05s steps(1) infinite}
 @keyframes blink{50%{opacity:0}}
 .tagline{margin-top:30px;font-size:clamp(20px,3.4vw,27px);line-height:1.5;color:var(--fg)}
-.tagline .en{display:block;font-family:var(--font-mono);font-size:14px;color:var(--muted);letter-spacing:.5px;margin-top:10px}
+.tagline .en{display:block;font-family:var(--font-sans);font-size:14.5px;color:var(--muted);margin-top:10px;letter-spacing:0}
 .tagline b{color:var(--accent);font-weight:600}
 
 /* ---------- sections ---------- */

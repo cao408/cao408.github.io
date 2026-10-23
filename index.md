@@ -17,8 +17,8 @@ title: Yoimiya
     </div>
   </div>
   <p class="tagline">
-    微电子在读，想做 SNN。目前被线代和数分追着杀。
-    <span class="en">First year of microelectronics at XJTU.</span>
+    First year of microelectronics at XJTU.
+    <span class="en">微电子在读，想做 SNN。目前被线代和数分追着杀。</span>
   </p>
 </div>
 
