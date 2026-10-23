@@ -17,7 +17,8 @@ title: Yoimiya
     </div>
   </div>
   <p class="tagline">
-    First year of microelectronics at XJTU.
+    微电子在读，想做 SNN。目前被线代和数分追着杀。
+    <span class="en">First year of microelectronics at XJTU.</span>
   </p>
 </div>
 
@@ -26,15 +27,15 @@ title: Yoimiya
   <div class="about-grid">
     <div class="about-card">
       <span class="lab">// LOCATION</span>
-      <span class="val">西安，中国</span>
+      <span class="val">西安，陕西<small>Xi'an, Shaanxi</small></span>
     </div>
     <div class="about-card">
       <span class="lab">// FIELD</span>
-      <span class="val">微电子，想做 SNN</span>
+      <span class="val">微电子，还没搞懂 SNN<small>microelectronics, still lost in SNN</small></span>
     </div>
     <div class="about-card">
       <span class="lab">// NOW</span>
-      <span class="val">希望在线代和数分手下活下来ing</span>
+      <span class="val">活着，作业还没写完<small>alive, homework pending</small></span>
     </div>
   </div>
 </section>
@@ -62,7 +63,7 @@ title: Yoimiya
       <span class="ar">&rarr;</span>
     </li>
     {% else %}
-    <li class="empty">no posts yet <span class="muted">— first one is warming up in the buffer…</span></li>
+    <li class="empty">还没有文章，再等等吧 <span class="muted">— no posts yet</span></li>
     {% endfor %}
   </ul>
 </section>
