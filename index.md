@@ -51,7 +51,17 @@ title: Yoimiya
     <span class="chip">数学</span>
     <span class="chip">GitHub Pages</span>
   </div>
-  <p class="stack-item">// 闲着弄的　<a href="https://cao408.github.io/xiqian-1956-/" target="_blank" rel="noopener">《西迁·1956》</a> &rarr;</p>
+</section>
+
+<section id="projects">
+  <h2 class="sec-h">projects</h2>
+  <ul class="plist">
+    <li>
+      <span class="d">闲着弄的</span>
+      <a class="t" href="https://cao408.github.io/xiqian-1956-/" target="_blank" rel="noopener">《西迁·1956》</a>
+      <span class="ar">&rarr;</span>
+    </li>
+  </ul>
 </section>
 
 <section id="posts">
