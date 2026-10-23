@@ -24,7 +24,7 @@ title: Yoimiya
   <div class="about-grid">
     <div class="about-card">
       <span class="lab">// LOCATION</span>
-      <span class="val">中国 · 西安<small>xi'an, cn</small></span>
+      <span class="val">西安 · 中国<small>绵阳人 · 绵中毕业</small></span>
     </div>
     <div class="about-card">
       <span class="lab">// FIELD</span>
@@ -79,10 +79,6 @@ title: Yoimiya
     <a class="c-card" href="https://github.com/cao408" target="_blank" rel="noopener">
       <span class="lab">GITHUB</span>
       <span class="val">github.com/cao408</span>
-    </a>
-    <a class="c-card" href="https://x.com/cao1234562022" target="_blank" rel="noopener">
-      <span class="lab">X / TWITTER</span>
-      <span class="val">@cao1234562022</span>
     </a>
     <a class="c-card" href="https://search.bilibili.com/all?keyword=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E8%AE%B2%E6%AD%A6%E5%BE%B7emm" target="_blank" rel="noopener">
       <span class="lab">BILIBILI</span>
