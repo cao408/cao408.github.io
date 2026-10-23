@@ -7,9 +7,9 @@ title: Yoimiya
     <div class="term-bar"><i></i><i></i><i></i><span>xjtu@micro ~ %</span></div>
     <div class="term-body">
       <div><span class="muted">$ whoami</span></div>
-      <div><span class="c">Yoimiya</span> <span class="muted">· 西安交通大学 · 微电子学院</span></div>
+      <div><span class="c">Yoimiya</span> <span class="muted">xjtu 微电子学院</span></div>
       <div><span class="muted">$ cat focus.txt</span></div>
-      <div><span class="k">硬件 / 数字 IC 设计</span> <span class="muted">— Hardware &amp; IC Design</span></div>
+      <div><span class="k">微电子，方向还没定</span></div>
       <div>&nbsp;</div>
       <div><span class="muted">$ uptime</span> <span class="v">freshman++</span><span class="caret"></span></div>
     </div>
@@ -24,11 +24,11 @@ title: Yoimiya
   <div class="about-grid">
     <div class="about-card">
       <span class="lab">// LOCATION</span>
-      <span class="val">西安 · 中国<small>绵阳人 · 绵中毕业</small></span>
+      <span class="val">绵阳人，绵中毕业</span>
     </div>
     <div class="about-card">
       <span class="lab">// FIELD</span>
-      <span class="val">微电子 · 数字 IC<small>microelectronics · digital IC</small></span>
+      <span class="val">微电子，方向还没定</span>
     </div>
     <div class="about-card">
       <span class="lab">// NOW</span>
@@ -36,7 +36,7 @@ title: Yoimiya
     </div>
     <div class="about-card">
       <span class="lab">// OFFLINE</span>
-      <span class="val">数学、游戏、偶尔写点小工具<small>math · games · side tools</small></span>
+      <span class="val">数学、游戏、偶尔写点小工具</span>
     </div>
   </div>
 </section>
