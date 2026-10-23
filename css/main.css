@@ -98,6 +98,9 @@ section{padding:44px 0}
 .chip{font-family:var(--font-mono);font-size:13px;padding:6px 13px;border:1px solid var(--line);
   border-radius:999px;color:var(--muted);background:rgba(255,255,255,.01);transition:.2s}
 .chip:hover{color:var(--accent);border-color:var(--accent-dim)}
+.stack-item{margin:18px 0 0;font-family:var(--font-mono);font-size:13px;color:var(--muted)}
+.stack-item a{color:var(--fg)}
+.stack-item a:hover{color:var(--accent);text-decoration:none}
 
 /* posts list */
 .plist{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:2px}

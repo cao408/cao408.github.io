@@ -51,6 +51,7 @@ title: Yoimiya
     <span class="chip">数学</span>
     <span class="chip">GitHub Pages</span>
   </div>
+  <p class="stack-item">// 闲着弄的　<a href="https://cao408.github.io/xiqian-1956-/" target="_blank" rel="noopener">《西迁·1956》</a> &rarr;</p>
 </section>
 
 <section id="posts">
