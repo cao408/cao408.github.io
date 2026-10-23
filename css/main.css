@@ -86,7 +86,7 @@ section{padding:44px 0}
 .sec-h::after{content:"";height:1px;flex:1;background:var(--line)}
 
 /* about */
-.about-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.about-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}
 .about-card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px 20px;transition:border-color .2s}
 .about-card:hover{border-color:var(--accent-dim)}
 .about-card .lab{font-family:var(--font-mono);font-size:12px;color:var(--accent);letter-spacing:1px;display:block;margin-bottom:8px}

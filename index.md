@@ -36,10 +36,6 @@ title: Yoimiya
       <span class="lab">// NOW</span>
       <span class="val">希望在线代和数分手下活下来ing</span>
     </div>
-    <div class="about-card">
-      <span class="lab">// OFFLINE</span>
-      <span class="val">打崩铁，最喜欢银狼</span>
-    </div>
   </div>
 </section>
 
