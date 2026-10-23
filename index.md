@@ -7,9 +7,11 @@ title: Yoimiya
     <div class="term-bar"><i></i><i></i><i></i><span>xjtu@micro ~ %</span></div>
     <div class="term-body">
       <div><span class="muted">$ whoami</span></div>
-      <div><span class="c">Yoimiya</span> <span class="muted">xjtu 微电子学院</span></div>
+      <div><span class="c">Yoimiya</span></div>
+      <div><span class="muted">2023-2026&nbsp;&nbsp;</span>Mianyang high school, Sichuan</div>
+      <div><span class="muted">2026-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>school of microelectronics, XJTU</div>
       <div><span class="muted">$ cat focus.txt</span></div>
-      <div><span class="k">微电子，方向还没定</span></div>
+      <div><span class="k">想做 SNN</span></div>
       <div>&nbsp;</div>
       <div><span class="muted">$ uptime</span> <span class="v">freshman++</span><span class="caret"></span></div>
     </div>
@@ -24,11 +26,11 @@ title: Yoimiya
   <div class="about-grid">
     <div class="about-card">
       <span class="lab">// LOCATION</span>
-      <span class="val">绵阳人，绵中毕业</span>
+      <span class="val">西安，中国</span>
     </div>
     <div class="about-card">
       <span class="lab">// FIELD</span>
-      <span class="val">微电子，方向还没定</span>
+      <span class="val">微电子，想做 SNN</span>
     </div>
     <div class="about-card">
       <span class="lab">// NOW</span>
@@ -36,7 +38,7 @@ title: Yoimiya
     </div>
     <div class="about-card">
       <span class="lab">// OFFLINE</span>
-      <span class="val">数学、游戏、偶尔写点小工具</span>
+      <span class="val">打崩铁，最喜欢银狼</span>
     </div>
   </div>
 </section>
