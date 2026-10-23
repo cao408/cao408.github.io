@@ -80,7 +80,7 @@ title: Yoimiya
       <span class="lab">GITHUB</span>
       <span class="val">github.com/cao408</span>
     </a>
-    <a class="c-card" href="https://search.bilibili.com/all?keyword=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E8%AE%B2%E6%AD%A6%E5%BE%B7emm" target="_blank" rel="noopener">
+    <a class="c-card" href="https://space.bilibili.com/1231365047" target="_blank" rel="noopener">
       <span class="lab">BILIBILI</span>
       <span class="val">@年轻人不讲武德emm</span>
     </a>
