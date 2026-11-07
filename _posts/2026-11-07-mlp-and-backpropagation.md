@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multi-Layer Perceptrons and Backpropagation
+title: 多层感知机与误差反向传播：推导与三个数值算例
 date: 2026-11-07
 ---
 
