@@ -128,6 +128,11 @@ section{padding:44px 0}
 .post ul,.post ol{padding-left:22px;margin:0 0 20px}
 .post li{margin:6px 0}
 .post strong{color:var(--fg)}
+.post table{width:100%;border-collapse:collapse;margin:24px 0;font-size:14px;font-family:var(--font-mono);
+  font-variant-numeric:tabular-nums}
+.post th,.post td{border:1px solid var(--line);padding:8px 10px;text-align:center}
+.post th{background:var(--panel);color:var(--accent);font-weight:600;letter-spacing:.03em}
+.post tbody tr:nth-child(even) td{background:rgba(13,23,20,.55)}
 .post hr{border:none;border-top:1px solid var(--line);margin:36px 0}
 
 /* ---------- contact ---------- */
